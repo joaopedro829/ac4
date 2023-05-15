@@ -1,0 +1,5 @@
+REPOSITORY                                                        TAG       IMAGE ID       CREATED       SIZE
+ac_4                                                              tag_1.0   b1bb490eb6ed   2 hours ago   239MB
+350067162964.dkr.ecr.us-east-1.amazonaws.com/webapp/static-site   v1.0.1    b1bb490eb6ed   2 hours ago   239MB
+joaopedro829/static-site                                          v1.0.1    da6ab4742021   2 weeks ago   201MB
+ubuntu                                                            latest    3b418d7b466a   2 weeks ago   77.8MB
